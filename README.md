@@ -1,1 +1,1 @@
-# user three fuction to solve question
+# use three fuction to solve question
